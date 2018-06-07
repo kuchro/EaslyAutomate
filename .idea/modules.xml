@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EaslyAutomate.iml" filepath="$PROJECT_DIR$/EaslyAutomate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EaslyAutomate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/EaslyAutomate_main.iml" group="EaslyAutomate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/EaslyAutomate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/EaslyAutomate_test.iml" group="EaslyAutomate" />
+    </modules>
+  </component>
+</project>
